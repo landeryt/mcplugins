@@ -1,0 +1,12 @@
+name: InWater
+version: '${project.version}'
+main: me.landeryt.inwater.InWater
+api-version: '1.20'
+load: STARTUP
+author: LanderYT
+commands:
+  inwater:
+    description: Are you in water?
+    usage: /<command>
+    aliases:
+      - water
