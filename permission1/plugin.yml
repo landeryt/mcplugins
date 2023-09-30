@@ -1,0 +1,17 @@
+name: Permissions
+version: '${project.version}'
+main: me.landeryt.permissions.Permissions
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+description: A simple permission plugin
+website: youtube.com/skylanderyt
+commands:
+  test:
+    description: A test command.
+    usage: /<command>
+permissions:
+  permission.test:
+    description: A test command.
+  permission.haybale:
+    description: A permission to break hay bale.
