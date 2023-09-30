@@ -1,0 +1,18 @@
+name: Commands2
+version: '${project.version}'
+main: me.landeryt.commands2.Commands2
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  god:
+    description: Toggle god mode.
+    usage: /<command>
+    aliases:
+      - godmode
+  feed:
+    description: Fill up your hunger.
+    usage: /<command>
+    aliases:
+      - hungry
