@@ -1,0 +1,2 @@
+- /repeat <message>: Outputs everything you put into the command
+- /spawnmob <mob>: Spawns a friendly mob (I did not add other mobs) right where you are.
