@@ -1,0 +1,22 @@
+name: Repeat_Spawnmob
+version: '${project.version}'
+main: me.landeryt.commandarguments.CommandArguments
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  repeat:
+    description: Repeat a message back to you.
+    permission: commandarguments.repeat
+    aliases:
+      - repeatmsg
+      - rp
+  spawnmob:
+    description: Spawns a mob of your choice. (Limited)
+    permission: commandarguments.spawnmob
+permissions:
+  commandarguments.spawnmob:
+    description: Allows user to spawn a mob (limited)
+  commandarguments.repeat:
+    description: Allows user to repeat their message.
