@@ -1,0 +1,10 @@
+name: PlayerTargetCmd
+version: '${project.version}'
+main: me.landeryt.playertargetcmd.PlayerTargetCmd
+api-version: '1.20'
+load: STARTUP
+author: LanderYT
+commands:
+  fart:
+    description: Farts.
+
