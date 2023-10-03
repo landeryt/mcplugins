@@ -1,0 +1,24 @@
+name: Spawn
+version: '${project.version}'
+main: me.landeryt.spawn.Spawn
+api-version: '1.20'
+load: STARTUP
+commands:
+  setspawn:
+    permission: spawn.setspawn
+    description: Sets the server spawn
+    usage: /<command>
+  spawn:
+    permission: spawn.spawn
+    description: Teleports you to spawn
+    usage: /<command>
+permissions:
+  spawn.setspawn:
+    description: Allows the player to set server spawn
+    default: op
+  spawn.spawn:
+    description: Teleports the player to spawn
+    default: true
+  spawn.spawn.others:
+    description: Allows teleporting other players to spawn
+    default: op
