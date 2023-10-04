@@ -1,0 +1,6 @@
+join-message: '&eHowdy, welcome to the server, &c%player%&e! '
+feed-players: true
+drinks:
+  - 'water'
+  - 'coke'
+  - 'lemonade'
