@@ -1,0 +1,5 @@
+join-message: '&dWelcome &1%player% &dto the server!'
+leave-message: '&eSee you later, &1%player%'
+feed-player-join: true
+heal-player-join: true
+spawn:

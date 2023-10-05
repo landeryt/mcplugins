@@ -1,0 +1,33 @@
+name: Spawn-Join-Leave
+version: '${project.version}'
+main: me.landeryt.spawnjoinleave.Spawn_Join_Leave
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  setmessage:
+    description: Sets the join or leave message
+    usage: /<command>
+    permission: sjl.setmessage
+  setspawn:
+    description: Sets the server spawn
+    usage: /<command>
+    permission: sjl.setspawn
+  spawn:
+    description: Teleports the player to spawn
+    usage: /<command>
+    permission: sjl.spawn
+permissions:
+  sjl.setmessage:
+    description: Allows user to set join or leave message
+    default: op
+  sjl.setspawn:
+    description: Allows user to set server spawn
+    default: op
+  sjl.spawn:
+    default: true
+    description: Allows user to teleport to spawn
+  sjl.spawn.others:
+    default: op
+    description: Allows user to teleport others to spawn
