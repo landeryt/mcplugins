@@ -1,0 +1,14 @@
+name: InventoriesAndItems
+version: '${project.version}'
+main: me.landeryt.inventoriesanditems.InventoriesAndItems
+api-version: '1.20'
+load: STARTUP
+author: LanderYT
+commands:
+  menu:
+    description: Opens a menu
+    usage: /<command>
+    permission: iai.menu
+permissions:
+  iai.menu:
+    description: Allows user to open a menu
