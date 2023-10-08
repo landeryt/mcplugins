@@ -1,0 +1,11 @@
+name: Cooldowns
+version: '${project.version}'
+main: me.landeryt.cooldowns.Cooldowns
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  wb:
+    description: Welcome back!
+    usage: /<command>
