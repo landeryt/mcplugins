@@ -1,0 +1,2 @@
+on-message: "&2Flight has been enabled for &d%player%"
+off-message: "&2Flight has been disabled for &d%player%"

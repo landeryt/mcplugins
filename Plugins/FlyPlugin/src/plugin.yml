@@ -1,0 +1,17 @@
+name: FlyLanderYT
+version: '${project.version}'
+main: me.landeryt.flylanderyt.FlyLanderYT
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  fly:
+    permission: flylanderyt.fly
+    description: Allows flight
+    usage: /<command>
+permissions:
+  flylanderyt.fly:
+    description: Allows player to fly
+  flylanderyt.fly.others:
+    description: Allows flying other players
