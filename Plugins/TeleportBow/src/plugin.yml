@@ -1,0 +1,14 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.landeryt.teleportbow.TeleportBow
+api-version: '1.20'
+load: STARTUP
+author: LanderYT
+commands:
+  givebow:
+    description: Gives a teleport bow
+    usage: /<command>
+    permission: tpbow.givebow
+permissions:
+  tpbow.givebow:
+    description: Allows user to obtain a teleport bow via /givebow
