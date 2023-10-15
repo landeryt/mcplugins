@@ -1,0 +1,7 @@
+name: Week3-Halloween
+version: '${project.version}'
+main: me.landeryt.week3halloween.Week3_Halloween
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
