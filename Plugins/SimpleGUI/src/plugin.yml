@@ -1,0 +1,11 @@
+name: GUI-menus
+version: '${project.version}'
+main: me.landeryt.guimenus.GUI_menus
+api-version: '1.20'
+load: STARTUP
+authors: [LanderYT]
+website: youtube.com/skylanderyt
+commands:
+  gui:
+    description: Opens a GUI menu
+    usage: /<command>
