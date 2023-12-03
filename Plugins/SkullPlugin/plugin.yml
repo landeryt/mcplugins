@@ -1,0 +1,9 @@
+name: SkullPlugin
+version: '${project.version}'
+main: me.landeryt.skullplugin.SkullPlugin
+api-version: '1.20'
+load: STARTUP
+commands:
+  skull:
+    description: Changes the held skull into holder's skull
+    usage: /<command>
