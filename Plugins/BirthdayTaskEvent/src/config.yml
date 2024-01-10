@@ -1,0 +1,36 @@
+cakeJump: true
+copperWax: true #exposed copper
+candlePlace: true #light blue
+bedSleep: true #light blue
+potatoCampfire: true
+nautilusCatch: true
+snowDeath: true
+endermanKill: true
+
+cornflowerBreak: true #flower forest
+armorBreak: true #chainmail leggings
+wolfDye: true #light blue
+fireworkDeath: true
+goatHit: true
+witchDeath: true
+furnaceSavannah: true
+myceliumPlace: true
+silkGlass: true #break glass with silk touch
+terracottaGrab: true #from furnace
+stoneShovel: true #fishing loot
+enderchestBreak: true #without silk touch
+chorusFruit: true
+purpur: true
+
+unhinged: true #chat
+invisDoor: true
+goldBadlands: true #gold block
+notchEat: true
+netheriteBlock: true
+vietnam: true #chat
+stalaciteDeath: true #while wearing diamond helmet
+snowmanKill: true #while in desert
+luckBarrel: true
+
+tokens:
+  uuid1: 1
