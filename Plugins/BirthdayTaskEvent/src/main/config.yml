@@ -1,0 +1,37 @@
+cakeJump: true
+copperWax: true
+candlePlace: true
+bedSleep: true
+potatoCampfire: true
+nautilusCatch: true
+snowDeath: true
+endermanKill: true
+
+cornflowerBreak: true
+armorBreak: true
+wolfDye: true
+fireworkDeath: true
+goatHit: true
+witchDeath: true
+pillagerKill: true
+furnaceSavannah: true
+myceliumPlace: true
+silkGlass: true
+terracottaGrab: true
+stoneShovel: true
+enderchestBreak: true;
+chorusFruit: true
+purpur: true
+
+unhinged: true
+invisDoor: true
+goldBadlands: true
+notchEat: true
+netheriteBlock: true
+vietnam: true
+stalaciteDeath: true
+snowmanKill: true
+luckBarrel: true
+
+tokens:
+  uuid1: 1
