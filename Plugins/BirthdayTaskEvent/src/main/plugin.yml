@@ -1,9 +1,0 @@
-name: BirthdayEvent1
-version: '${project.version}'
-main: me.landeryt.birthdayevent1.BirthdayEvent1
-api-version: '1.20'
-load: STARTUP
-commands:
-  tokens:
-    description: Tells you how many tokens you have earned
-    usage: /<command>
