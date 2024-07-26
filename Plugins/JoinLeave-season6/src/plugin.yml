@@ -1,0 +1,5 @@
+name: JoinLeaveSeason6
+version: '${project.version}'
+main: me.landeryt.joinleaveseason6.JoinLeaveSeason6
+api-version: '1.21'
+load: STARTUP
